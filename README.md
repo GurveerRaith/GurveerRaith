@@ -2,15 +2,13 @@
 
 ### A passionate game and web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GurveerRaith&label=Profile views&color=0e75b6&style=flat" alt="GurveerRaith" /> </p>
+- Currently working on: **A pachinko sports betting rougelike game with 2 others**
 
-- Currently working on **A pachinko sports betting rougelike game with 2 others**
-
-- Currently learning **AWS and DevOps**
+- Currently learning: **AWS and DevOps**
 
 - Proficient in: **Unity, React, node.js, and Firebase**
 
-- Fun fact **My top 3 game genres are rougelikes, sandbox survivals, and gacha games.**
+- Fun fact: **My top 3 game genres are rougelikes, sandbox survivals, and gacha games.**
 
 - How to reach me: Via Email **gurveerraith@gmail.com** or on Linkedin (link posted below)
 
@@ -18,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/GurveerRaith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GurveerRaith" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gurveer-raith-300024404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurveer-raith-300024404" height="30" width="40" /></a>
 </p>
 
